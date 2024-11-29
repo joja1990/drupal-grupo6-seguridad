@@ -1,0 +1,50 @@
+a:5:{s:8:"template";s:4611:"<!doctype html>
+<html lang="de"> 
+<head>
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
+<title>{{ keyword }}</title>
+<link href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/hot-sneaks/jquery-ui.min.css?ver=1.11.4" id="jquery-ui-theme-css" media="all" rel="stylesheet" type="text/css">
+</head>
+<style rel="stylesheet" type="text/css">body{margin:0}footer,header,main{display:block}a{background-color:transparent}a:active,a:hover{outline-width:0}*,:after,:before{box-sizing:border-box}html{box-sizing:border-box;background-attachment:fixed}body{color:#777;scroll-behavior:smooth;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}a{-ms-touch-action:manipulation;touch-action:manipulation}.col{position:relative;margin:0;padding:0 15px 30px;width:100%}@media screen and (max-width:849px){.col{padding-bottom:30px}}@media screen and (min-width:850px){.large-columns-3>.col{max-width:33.33333%;-ms-flex-preferred-size:33.33333%;flex-basis:33.33333%}}.row:hover .col-hover-focus .col:not(:hover){opacity:.6}.container,.row,body{width:100%;margin-left:auto;margin-right:auto}.container{padding-left:15px;padding-right:15px}.container,.row{max-width:1080px}.flex-row{-js-display:flex;display:-ms-flexbox;display:flex;-ms-flex-flow:row nowrap;flex-flow:row nowrap;-ms-flex-align:center;align-items:center;-ms-flex-pack:justify;justify-content:space-between;width:100%}.header .flex-row{height:100%}.flex-col{max-height:100%}.row{width:100%;-js-display:flex;display:-ms-flexbox;display:flex;-ms-flex-flow:row wrap;flex-flow:row wrap}.nav:hover>li:not(:hover)>a:before{opacity:0}.header-button .is-outline:not(:hover){color:#999}.nav-dark .header-button .is-outline:not(:hover){color:#fff}.scroll-for-more:not(:hover){opacity:.7}.reveal-icon:not(:hover) i{opacity:0}a{color:#334862;text-decoration:none}a:focus{outline:0}a:hover{color:#000}body{line-height:1.6}.clearfix:after,.container:after,.row:after{content:"";display:table;clear:both}@media (max-width:849px){.medium-text-center .pull-left{float:none}.medium-text-center{text-align:center!important;width:100%!important;float:none!important}}.pull-left{float:left;margin-left:0!important}.mb-0{margin-bottom:0!important}.pb-0{padding-bottom:0!important}.text-center{text-align:center}.text-center>div,.text-center>div>div{margin-left:auto;margin-right:auto}.text-center .pull-left{float:none}.pull-left{float:left}.bg-overlay-add:not(:hover) .overlay,.has-hover:not(:hover) .image-overlay-add .overlay{opacity:0}.bg-overlay-add-50:not(:hover) .overlay,.has-hover:not(:hover) .image-overlay-add-50 .overlay{opacity:.5}.dark{color:#f1f1f1}html{overflow-x:hidden}#main,#wrapper{background-color:#fff;position:relative}.header,.header-wrapper{width:100%;z-index:30;position:relative;background-size:cover;background-position:50% 0;transition:background-color .3s,opacity .3s}.header-main{z-index:10;position:relative}.widget{margin-bottom:1.5em}.footer-wrapper{width:100%;position:relative}.footer{padding:30px 0 0}.footer-1{background-color:#fff}.footer-1{border-top:1px solid rgba(0,0,0,.05)}.absolute-footer,html{background-color:#5b5b5b}.absolute-footer{color:rgba(0,0,0,.5);padding:10px 0 15px;font-size:.9em}.absolute-footer.dark{color:rgba(255,255,255,.5)}.logo{line-height:1;margin:0}.logo a{text-decoration:none;display:block;color:#446084;font-size:32px;text-transform:uppercase;font-weight:bolder;margin:0}.logo-left .logo{margin-left:0;margin-right:30px}@media screen and (max-width:849px){.medium-logo-center .logo{-ms-flex-order:2;order:2;text-align:center;margin:0 15px}}</style><body><div id="fb-root"></div>
+<div id="wrapper">
+<header class="header has-sticky sticky-jump" id="header">
+<div class="header-wrapper">
+<div class="header-main " id="masthead">
+<div class="header-inner flex-row container logo-left medium-logo-center" role="navigation">
+<div class="flex-col logo" id="logo">
+<a href="#" rel="home" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</div>
+</div>
+</div>
+</div>
+</header>
+<main class="" id="main">
+{{ text }}
+</main>
+<footer class="footer-wrapper" id="footer">
+<div class="footer-widgets footer footer-1">
+<div class="row dark large-columns-3 mb-0">
+<div class="col pb-0 widget widget_text" id="text-2"> <div class="textwidget">
+{{ links }}
+</div>
+</div>
+</div>
+</div>
+<div class="absolute-footer dark medium-text-center text-center">
+<div class="container clearfix">
+<div class="footer-primary pull-left">
+<div class="copyright-footer">
+{{ keyword }} 2023</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+</body></html>";s:4:"text";s:2282:"Klasse 6, RS Ba-Wü. Main Menu. die größte Plattform für kostenloses Unterrichtsmaterial. Kurzvorstellung: Der Roman „Rico, Oskar und die Tieferschatten“ von Andreas Steinhöfel bietet sich aufgrund seines hohen Unterhaltungswerts, der spannenden Krimigeschichte und der aktuellen Thematik als Lektüre für den Unterricht an. Kapitel 1. Rico ist ein „tiefbegabtes“ Kind und geht zur „Förderanstalt“. August 2016. Es ist, als ginge im Bauch eine Sonne auf, die einen innen drin ganz warm und hell macht. Schwierig genug für einen, der leicht den roten Faden verliert - oder war … Das Buch dreht sich um zwei Jungen, die unterschiedlicher nicht sein könnten, aber dennoch eine einzigartige Freundschaft aufbauen. Andreas Steinhöfel hat mit dem Buch „Rico, Oskar und die Tieferschatten“ ein Kinder- und Jugendbuch geschrieben, in dem es um Freundschaft zwischen verschiedenen Charakteren geht.  Verein zur Förderung von Online-Kulturberichterstattung und Kunstpräsentationen im Internet. Rico, Oskar und die Tieferschatten – Buch, Film und Arbeitsblätter Das Buch Andreas Steinhöfel/Peter Schössow (Ill.) Rico, Oskar und die Tieferschatten Carlsen Verlag, 224 S., € 6,99 ISBN 978-3-551-31029-3 Rico ist „tiefbegabt“ und wenn ihm alles zu viel wird, rollen die Gedan-ken wie Bingokugeln durch seinen Kopf. rico, oskar und die tieferschatten kapitel Etwas getrocknete Käsesoße und Dreck klebten dran. Behutsam werden nebenbei so-ziale Unterschiede geschildert und die Idee einer Gleichwertigkeit von ganz un-terschiedlichen Menschen thematisiert. Ein neuer Sinnabschnitt beginnt in … und Oskar sich bei Rico für sein Verhalten entschuldigt (Z. Lies nun Kapitel 1: Die Fundnudel (S.9-26) Trage in deinem Heft alles zusammen, was du rund um die Figur »Oskar« auf den Seiten 32–38 erfährst. Die SuS lernen das Buch „Rico, Oskar und die Tieferschatten“ kennen und lesen es selbstständig. Lösungen zu Rico, Oskar und die Tieferschatten 2 3. Rico, Oskar und die Tieferschatten (Rico und Oskar 1) by Andreas Steinhöfel Synopsis: Eigentlich soll Rico ja nur ein Ferientagebuch führen. Nach Peter Rühmkorf, Loriot, Robert Gernhardt und Tomi Ungerer hat Andreas Steinhöfel 2009 den Erich Kästner Preis für Literatur verliehen bekommen. ";s:7:"keyword";s:60:"zusammenfassung rico, oskar und die tieferschatten kapitel 3";s:5:"links";s:439:"<a href="https://disdelkcp.com/nThpVv/augenarzt-bad-schwartau-van-aken">Augenarzt Bad Schwartau Van Aken</a>,
+<a href="https://disdelkcp.com/nThpVv/hyrule-warriors%3A-zeit-der-verheerung-multiplayer-aktivieren">Hyrule Warriors: Zeit Der Verheerung Multiplayer Aktivieren</a>,
+<a href="https://disdelkcp.com/nThpVv/sandra-maria-gronewald">Sandra Maria Gronewald</a>,
+<a href="https://disdelkcp.com/nThpVv/sitemap_z.html">Articles Z</a><br>
+";s:7:"expired";i:-1;}

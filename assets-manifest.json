@@ -1,0 +1,10 @@
+{
+  "main.js": "render-page.js",
+  "render-page.js.map": "render-page.js.map",
+  "vendors-node_modules_canvg_lib_index_es_js.render-page.js": "vendors-node_modules_canvg_lib_index_es_js.render-page.js",
+  "vendors-node_modules_canvg_lib_index_es_js.render-page.js.map": "vendors-node_modules_canvg_lib_index_es_js.render-page.js.map",
+  "vendors-node_modules_dompurify_dist_purify_es_js.render-page.js": "vendors-node_modules_dompurify_dist_purify_es_js.render-page.js",
+  "vendors-node_modules_dompurify_dist_purify_es_js.render-page.js.map": "vendors-node_modules_dompurify_dist_purify_es_js.render-page.js.map",
+  "vendors-node_modules_html2canvas_dist_html2canvas_esm_js.render-page.js": "vendors-node_modules_html2canvas_dist_html2canvas_esm_js.render-page.js",
+  "vendors-node_modules_html2canvas_dist_html2canvas_esm_js.render-page.js.map": "vendors-node_modules_html2canvas_dist_html2canvas_esm_js.render-page.js.map"
+}
